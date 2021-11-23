@@ -5,14 +5,14 @@
 <br/>
 
 <h1 align="center">
-  Portfolio Website Version 2
+  Portfolio Website 
 </h1>
 
 <br/>
 
 <p align="center">
   Previous iterations:
-  <a href="https://flyingsonu122.github.io/" target="_blank">V1</a>
+  <a href="https://flyingsonu122.github.io/v1" target="_blank">V1</a>
 </p>
 
 <br/>
@@ -23,11 +23,11 @@
 
 <br/>
 
-## See live demo on [flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)
+## See live demo on [https://flyingsonu122.github.io](https://flyingsonu122.github.io)
 
 OR
 
-## [https://sonukushwaha.live](https://sonukushwaha.live/)
+## [https://sonu.live](https://sonu.live/)
 
 <br/><br/>
 
